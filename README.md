@@ -1,4 +1,4 @@
-# Chatbot-for-mental-health-using-Llama2# End-to-end-Medical-Chatbot-using-Llama2
+# Chatbot-for-mental-health-using-Llama2
 
 ## Objective:
 
@@ -24,7 +24,10 @@ Build a chatbot that can assist users with their mental health queries.
 ![LLM](https://github.com/VenkateshL1921/Chatbot-for-mental-health-using-Llama2/assets/108605062/48ae622f-dddb-4b17-88ba-569d32463cb8)
 
 ## Result: 
-![IMG_20240116_171602](https://github.com/VenkateshL1921/Chatbot-for-mental-health-using-Llama2/assets/108605062/e114329d-70c2-493a-aaea-86504260ce70)
+![Screenshot from 2024-01-17 10-50-45](https://github.com/VenkateshL1921/Chatbot-for-mental-health-using-Llama2/assets/108605062/353d658b-1efe-46bd-8c7e-877e6a78359c)
+
+![Screenshot from 2024-01-17 10-48-11](https://github.com/VenkateshL1921/Chatbot-for-mental-health-using-Llama2/assets/108605062/421dd07f-a1bd-45ce-bf42-b633dc77db73)
+
 
 
 ## How to run?
